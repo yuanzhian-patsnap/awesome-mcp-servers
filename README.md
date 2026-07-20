@@ -1,4 +1,5 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+- [patsnap/mcp](https://github.com/patsnap/mcp) ☁️ - PatSnap's hosted MCP servers for patent, pharmaceutical, life sciences, scientific literature, and R&D innovation intelligence.
+[tatsuju/opdstar-nhi-mcp![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
